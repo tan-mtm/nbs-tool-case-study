@@ -72,5 +72,3 @@ I am presenting this work as the Product Lead and QA contributor. Engineering im
 - Public backend repository: [g-adzan/nbstool_v3](https://github.com/g-adzan/nbstool_v3)
 - Organisation: [World Resources Institute](https://www.wri.org/)
 - Coalition: [SCeNe Coalition](https://scenecoalition.org/)
-
-Product names, trademarks, imagery, and organisational materials belong to their respective owners. This repository is a professional case study describing my role and does not claim sole authorship of the product or its source code.
